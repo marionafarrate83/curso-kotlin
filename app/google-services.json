@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "978578097126",
+    "project_id": "curso-kotlin-c5817",
+    "storage_bucket": "curso-kotlin-c5817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978578097126:android:b605676f4f0aa4bb2f0c27",
+        "android_client_info": {
+          "package_name": "com.example.curso_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978578097126-f9i7jtmtr3bhkim2kpj40cjr1f6em0qo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.curso_kotlin",
+            "certificate_hash": "d5045d526410e1cacb438fa85588fad7791bb433"
+          }
+        },
+        {
+          "client_id": "978578097126-jrpdmh4l9r3fafln6labr9j2l6ococ53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUVhia7hjRvkAdELELTVBWT75kEvjVcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978578097126-jrpdmh4l9r3fafln6labr9j2l6ococ53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
